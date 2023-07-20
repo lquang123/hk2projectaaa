@@ -154,8 +154,8 @@
 												<div class="single-product">
 													<div class="product-img">
 														<a href="product-details.html">
-															<img class="default-img" src="images/img1.jpg" alt="#">
-															<img class="hover-img" src="images/img1.jpg" alt="#">
+															<img class="default-img" src="#" alt="#">
+															<img class="hover-img" src="" alt="#">
 														</a>
 														<div class="button-head">
 															<div class="product-action">
@@ -180,8 +180,8 @@
 												<div class="single-product">
 													<div class="product-img">
 														<a href="product-details.html">
-															<img class="default-img" src="images/img1.jpg" alt="#">
-															<img class="hover-img" src="images/img1.jpg" alt="#">
+															<img class="default-img" src="#" alt="#">
+															<img class="hover-img" src="#" alt="#">
 														</a>
 														<div class="button-head">
 															<div class="product-action">
@@ -206,8 +206,8 @@
 												<div class="single-product">
 													<div class="product-img">
 														<a href="product-details.html">
-															<img class="default-img" src="images/img3.png" alt="#">
-															<img class="hover-img" src="images/img3.png" alt="#">
+															<img class="default-img" src="#" alt="#">
+															<img class="hover-img" src="#" alt="#">
 														</a>
 														<div class="button-head">
 															<div class="product-action">
@@ -232,8 +232,8 @@
 												<div class="single-product">
 													<div class="product-img">
 														<a href="product-details.html">
-															<img class="default-img" src="images/img4.jpg" alt="#">
-															<img class="hover-img" src="images/img4.jpg" alt="#">
+															<img class="default-img" src="#" alt="#">
+															<img class="hover-img" src="#" alt="#">
 															<span class="new">New</span>
 														</a>
 														<div class="button-head">
