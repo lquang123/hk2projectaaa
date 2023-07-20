@@ -169,7 +169,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -195,7 +195,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Pink Show</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -248,7 +248,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Pant Collectons</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -274,7 +274,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -301,7 +301,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -327,7 +327,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Polo Dress For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -354,7 +354,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span class="old">$60.00</span>
 															<span>$50.00</span>
@@ -389,7 +389,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -415,7 +415,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Pink Show</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -441,7 +441,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -468,7 +468,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Pant Collectons</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -494,7 +494,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -521,7 +521,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -547,7 +547,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Polo Dress For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -574,7 +574,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span class="old">$60.00</span>
 															<span>$50.00</span>
@@ -609,7 +609,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -635,7 +635,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Pink Show</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -661,7 +661,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -688,7 +688,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Pant Collectons</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -714,7 +714,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -741,7 +741,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -767,7 +767,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Polo Dress For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -794,7 +794,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span class="old">$60.00</span>
 															<span>$50.00</span>
@@ -829,7 +829,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -855,7 +855,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Pink Show</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -881,7 +881,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -908,7 +908,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Pant Collectons</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -934,7 +934,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -961,7 +961,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -987,7 +987,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Polo Dress For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1014,7 +1014,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span class="old">$60.00</span>
 															<span>$50.00</span>
@@ -1049,7 +1049,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1075,7 +1075,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Pink Show</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1101,7 +1101,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1128,7 +1128,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Pant Collectons</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1154,7 +1154,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1181,7 +1181,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1207,7 +1207,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Polo Dress For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1234,7 +1234,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span class="old">$60.00</span>
 															<span>$50.00</span>
@@ -1269,7 +1269,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Hot Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1295,7 +1295,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Pink Show</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1321,7 +1321,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1348,7 +1348,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Women Pant Collectons</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1374,7 +1374,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1401,7 +1401,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Awesome Cap For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1427,7 +1427,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Polo Dress For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span>$29.00</span>
 														</div>
@@ -1454,7 +1454,7 @@
 														</div>
 													</div>
 													<div class="product-content">
-														<h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+														<h3><a href="product-details.html">Nike shoes</a></h3>
 														<div class="product-price">
 															<span class="old">$60.00</span>
 															<span>$50.00</span>
@@ -1540,7 +1540,7 @@
 								</div>
 							</div>
 							<div class="product-content">
-								<h3><a href="product-details.html">Black Sunglass For Women</a></h3>
+								<h3><a href="product-details.html">Nike shoes</a></h3>
 								<div class="product-price">
 									<span class="old">$60.00</span>
 									<span>$50.00</span>
@@ -1567,7 +1567,7 @@
 								</div>
                             </div>
                             <div class="product-content">
-                                <h3><a href="product-details.html">Women Hot Collection</a></h3>
+                                <h3><a href="product-details.html">Nike shoes</a></h3>
                                 <div class="product-price">
                                     <span>$50.00</span>
                                 </div>
@@ -1594,7 +1594,7 @@
 								</div>
                             </div>
                             <div class="product-content">
-                                <h3><a href="product-details.html">Awesome Pink Show</a></h3>
+                                <h3><a href="product-details.html">Nike shoes</a></h3>
                                 <div class="product-price">
                                     <span>$50.00</span>
                                 </div>
@@ -1620,7 +1620,7 @@
 								</div>
                             </div>
                             <div class="product-content">
-                                <h3><a href="product-details.html">Awesome Bags Collection</a></h3>
+                                <h3><a href="product-details.html">Nike shoes</a></h3>
                                 <div class="product-price">
                                     <span>$50.00</span>
                                 </div>
@@ -1657,7 +1657,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h4 class="title"><a href="#">Licity jelly leg flat Sandals</a></h4>
+									<h4 class="title"><a href="#">Nike shoes</a></h4>
 									<p class="price with-discount">$59</p>
 								</div>
 							</div>
@@ -1675,7 +1675,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Licity jelly leg flat Sandals</a></h5>
+									<h5 class="title"><a href="#">Nike shoes</a></h5>
 									<p class="price with-discount">$44</p>
 								</div>
 							</div>
@@ -1693,7 +1693,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Licity jelly leg flat Sandals</a></h5>
+									<h5 class="title"><a href="#">Nike shoes</a></h5>
 									<p class="price with-discount">$89</p>
 								</div>
 							</div>
@@ -1720,7 +1720,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Licity jelly leg flat Sandals</a></h5>
+									<h5 class="title"><a href="#">Nike shoes</a></h5>
 									<p class="price with-discount">$65</p>
 								</div>
 							</div>
@@ -1738,7 +1738,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Licity jelly leg flat Sandals</a></h5>
+									<h5 class="title"><a href="#">Nike shoes</a></h5>
 									<p class="price with-discount">$33</p>
 								</div>
 							</div>
@@ -1756,7 +1756,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Licity jelly leg flat Sandals</a></h5>
+									<h5 class="title"><a href="#">Nike shoes</a></h5>
 									<p class="price with-discount">$77</p>
 								</div>
 							</div>
@@ -1783,7 +1783,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Licity jelly leg flat Sandals</a></h5>
+									<h5 class="title"><a href="#">Nike shoes</a></h5>
 									<p class="price with-discount">$22</p>
 								</div>
 							</div>
@@ -1801,7 +1801,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Licity jelly leg flat Sandals</a></h5>
+									<h5 class="title"><a href="#">Nike shoes</a></h5>
 									<p class="price with-discount">$35</p>
 								</div>
 							</div>
@@ -1819,7 +1819,7 @@
 							</div>
 							<div class="col-lg-6 col-md-6 col-12 no-padding">
 								<div class="content">
-									<h5 class="title"><a href="#">Licity jelly leg flat Sandals</a></h5>
+									<h5 class="title"><a href="#">Nike shoes</a></h5>
 									<p class="price with-discount">$99</p>
 								</div>
 							</div>
@@ -1890,7 +1890,7 @@
 						<img src="https://via.placeholder.com/370x300" alt="#">
 						<div class="content">
 							<p class="date">22 July, 2020. Monday</p>
-							<a href="#" class="title">Man’s Fashion Winter Sale</a>
+							<a href="#" class="title">Nike shoes</a>
 							<a href="#" class="more-btn">Continue Reading</a>
 						</div>
 					</div>
@@ -1902,7 +1902,7 @@
 						<img src="https://via.placeholder.com/370x300" alt="#">
 						<div class="content">
 							<p class="date">22 July, 2020. Monday</p>
-							<a href="#" class="title">Women Fashion Festive</a>
+							<a href="#" class="title">Nike shoes</a>
 							<a href="#" class="more-btn">Continue Reading</a>
 						</div>
 					</div>
